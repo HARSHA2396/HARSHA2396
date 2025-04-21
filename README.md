@@ -79,4 +79,4 @@
 ### 📫 Let's Connect:
 
 - ✉️ Email: [harshavardhantagirisa@gmail.com](mailto:harshavardhantagirisa@gmail.com)
-- 🔗 [LinkedIn (Optional if you want to add)](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn:(https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/)
