@@ -88,15 +88,6 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 📫 Let's Connect:
 
 - ✉️ Email: [harshavardhantagirisa@gmail.com](mailto:tagirisaharshavardhan@gmail.com)
