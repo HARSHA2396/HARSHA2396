@@ -25,26 +25,39 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+## 🛠️ Technical Skills
 
-**Languages & OS:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+### 💻 Programming & Scripting:
+- Python (Core, Networking, Automation)
 
-**Cybersecurity & Tools:**  
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=data&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat)
-![Snort](https://img.shields.io/badge/Snort-E91E63?style=flat)
+### 🖥️ Operating Systems:
+- Windows, Kali Linux, Parrot OS, Ubuntu
 
-**Web & Dev:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🧰 Tools & Technologies:
+- **Penetration Testing**: Metasploit, Burp Suite, Nmap, SQLMap
+- **SIEM & Log Analysis**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat
+- **IDS/IPS**: Snort, Suricata
+- **Network Traffic Analysis**: Wireshark, tcpdump, Scapy
+- **Vulnerability Assessment**: Nessus, OpenVAS
+- **Cyber Forensics**: Autopsy, Belkasoft Evidence Center, EnCase
+- **Web Development**: Node.js, Express.js, Angular, MongoDB, MySQL
+- **Cryptography**: AES, RSA, SSL/TLS, Hashing Algorithms (SHA, MD5)
+- **Cloud & Security**: Azure VM, VPN Configuration, CASB, Group Policy Objects (GPO), BitLocker, MDM
+
+### 📌 Areas of Expertise:
+- SOC Operations, Threat Detection, Exploit Development  
+- Secure Web Architecture, USB & Endpoint Security  
+- Enterprise System Hardening (Windows/macOS/Linux)
+
+### 🤝 Soft Skills:
+- Strong Communication, Rapid Self-Learning, Team Collaboration, Adaptability
+
+### 🧭 Languages Known:
+- English (Fluent), Telugu (Native), Kannada (Conversational)
+
+### 🗂️ Productivity:
+- Microsoft Office Suite (Word, PowerPoint, Excel)
+
 
 ---
 
