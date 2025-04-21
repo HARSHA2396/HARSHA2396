@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harsha Vardhan 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Network Defender | Developer</h3>
+<h3 align="center"> Cybersecurity Analyst | Ethical Hacker | Network Defender | Developer</h3>
 
 ---
 
