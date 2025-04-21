@@ -28,7 +28,7 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Scripting:
-- Python (Core, Networking, Automation)
+- Python
 
 ### 🖥️ Operating Systems:
 - Windows, Kali Linux, Parrot OS, Ubuntu
@@ -36,13 +36,12 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 ### 🧰 Tools & Technologies:
 - **Penetration Testing**: Metasploit, Burp Suite, Nmap, SQLMap
 - **SIEM & Log Analysis**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat
-- **IDS/IPS**: Snort, Suricata
-- **Network Traffic Analysis**: Wireshark, tcpdump, Scapy
+- **IDS/IPS**: Snort
+- **Network Traffic Analysis**: Wireshark, tcpdump
 - **Vulnerability Assessment**: Nessus, OpenVAS
 - **Cyber Forensics**: Autopsy, Belkasoft Evidence Center, EnCase
 - **Web Development**: Node.js, Express.js, Angular, MongoDB, MySQL
 - **Cryptography**: AES, RSA, SSL/TLS, Hashing Algorithms (SHA, MD5)
-- **Cloud & Security**: Azure VM, VPN Configuration, CASB, Group Policy Objects (GPO), BitLocker, MDM
 
 ### 📌 Areas of Expertise:
 - SOC Operations, Threat Detection, Exploit Development  
