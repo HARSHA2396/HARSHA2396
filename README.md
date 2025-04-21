@@ -3,17 +3,25 @@
 
 ---
 
-🎯 📡 Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
+🎯  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
 
 
 ---
 
-### 👨‍💻 About Me:
-- 🔐 Aspiring SOC Analyst | Red/Blue Team Enthusiast
-- 📡 📡 Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
-- 🌐 Also love building full-stack secure web apps & system utilities
-- 🎓 Final Year Student @ Veltech University
-- 💼 Open to internships & job opportunities in Cybersecurity, Cloud Security, Penetration Testing
+🔐 **About Me**
+
+I’m a passionate cybersecurity enthusiast with a strong foundation in secure coding, ethical hacking, and building real-time defense mechanisms to protect digital assets.
+
+- 👨‍💻 **Aspiring SOC Analyst** with a deep interest in both **Red Team** and **Blue Team** operations
+- 📡  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
+- 🌐 Also enjoy crafting **secure full-stack web applications** and **system-level security tools**
+- 🎓 Final Year Cybersecurity Student at **Veltech University**
+- 🚀 Actively seeking **internships** and **entry-level roles** in:
+  - Security Operations
+  - Penetration Testing
+  - Cloud Security
+  - Compliance & Governance
+
 
 ---
 
