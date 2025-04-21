@@ -99,5 +99,5 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 
 ### 📫 Let's Connect:
 
-- ✉️ Email: [harshavardhantagirisa@gmail.com](mailto:harshavardhantagirisa@gmail.com)
+- ✉️ Email: [harshavardhantagirisa@gmail.com](mailto:tagirisaharshavardhan@gmail.com)
 - 🔗 LinkedIn:https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/
