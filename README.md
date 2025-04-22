@@ -57,35 +57,6 @@ I’m a passionate cybersecurity enthusiast with a strong foundation in secure c
 ### 🗂️ Productivity:
 - Microsoft Office Suite (Word, PowerPoint, Excel)
 
-
----
-
-### 📘 Featured Projects:
-
-#### 🔎 Real-Time Network Security Monitoring & Threat Detection System
-- Developed an ML-based IDS using Scapy + TensorFlow.
-- Reduced false positives & centralized dashboard for alerting.
-- **Tech:** Python, Scapy, TensorFlow
-
-#### 🛡️ Securing the Perimeter – Network Architecture & Monitoring
-- Enterprise-grade network architecture w/ VPN, DMZ, ELK Stack.
-- Real-time log aggregation via Filebeat on Azure VMs.
-- **Tech:** ELK Stack, VirtualBox, VPN, Linux Firewall
-
-#### 🔐 Compliance Assessment – Hardening & Cloud Security
-- Applied NIST SP 800-53 standards for endpoint & cloud hardening.
-- Created BYOD compliance, enforced encryption, and CASB.
-- **Tech:** Windows, macOS, BitLocker, MDM, VPN
-
-#### 👶 Child Safety Keylogger (Encrypted Monitoring Tool)
-- AES encryption, TLS transmission, GUI for parental monitoring.
-- **Tech:** Python, AES, SSL/TLS
-
-#### 💾 Advanced USB Port Management System
-- Controlled access via scheduling, role-based control, real-time alerts.
-- Cross-platform GUI with tamper detection.
-- **Tech:** Python, PyQt6, SQLite
-
 ---
 
 ### 📫 Let's Connect:
