@@ -9,6 +9,8 @@
 ---
 
 🔐 **About Me**
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1806733" style='border:none;'></iframe>
+
 
 I’m a passionate cybersecurity enthusiast with a strong foundation in secure coding, ethical hacking, and building real-time defense mechanisms to protect digital assets.
 
