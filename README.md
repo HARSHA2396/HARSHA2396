@@ -1,100 +1,110 @@
 <h1 align="center">Harsha Vardhan Tagirisa</h1>
 
 <p align="center">
-<b>Penetration Tester</b> | <b>Threat Analyst</b> | <b>SOC Analyst</b>
+<b>SOC Analyst</b> • <b>Threat Analyst</b> • <b>Penetration Tester</b>
 </p>
 
 <p align="center">
 Designing resilient systems, engineering detection pipelines, and securing infrastructure against modern threats.
 </p>
+
 <p align="center">
 <a href="https://tryhackme.com/p/H4ARSHA">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" width="260"/>
 </a>
 </p>
 
-## 🧭 About Me
+---
 
-Security engineer with hands-on experience across offensive and defensive domains, specializing in threat detection, adversarial simulation, and enterprise security architecture.
+## About
 
-Proven ability to build security labs, engineer SIEM detections, assess application risk, and implement hardened network environments.
+Security engineer with hands-on experience across offensive and defensive security, focused on threat detection, adversarial simulation, and enterprise security architecture.
+
+Proven ability to build SOC labs, engineer detection logic, assess application risk, and implement hardened network environments.
 
 ---
 
 ## Security Operations Experience
 
-### 🔴 Red Team Operations
-- Performed network reconnaissance and traffic analysis to identify attack paths and exposed services  
-- Conducted vulnerability assessments to uncover security weaknesses across systems and applications  
-- Executed web application security testing aligned with OWASP methodologies  
-- Simulated adversarial techniques in controlled environments to evaluate defensive effectiveness  
-- Validated misconfigurations, authentication flaws, and access control gaps  
-- Analyzed attack surfaces to recommend remediation strategies  
+### 🔴 Red Team
+- Executed network reconnaissance and traffic analysis to identify exposed services and attack paths  
+- Conducted vulnerability assessments across systems and web applications  
+- Performed OWASP-aligned security testing  
+- Simulated adversarial behavior in controlled lab environments  
+- Validated misconfigurations and access control weaknesses  
+- Delivered remediation-focused security insights  
 
 ---
 
-### 🔵 Blue Team Operations
-- Monitored network activity and analyzed traffic patterns to detect suspicious behavior  
-- Conducted centralized log analysis to support threat detection and incident investigation  
-- Engineered detection logic to improve visibility across security events  
-- Investigated alerts and mapped attacker behavior to MITRE ATT&CK techniques  
-- Strengthened infrastructure through segmentation, system hardening, and defensive controls  
-- Supported incident response by identifying indicators of compromise and abnormal activity  
+### 🔵 Blue Team
+- Monitored network activity to detect anomalous behavior  
+- Performed centralized log analysis supporting threat detection and investigations  
+- Engineered detection logic to improve security visibility  
+- Investigated alerts and mapped attacker behavior to MITRE ATT&CK  
+- Strengthened infrastructure through segmentation and system hardening  
+- Identified indicators of compromise to support incident response  
 
+---
+## Key Security Highlights
+
+• Engineered an AI-driven intrusion detection system for high-accuracy threat identification  
+• Built a fully operational SOC lab simulating real-world attack scenarios  
+• Performed OWASP-aligned security assessments and drove vulnerability remediation  
+• Designed segmented network architectures to reduce attack surface  
+• Implemented detection logic mapped to MITRE ATT&CK techniques  
 
 ---
 
-## 🚀 Security Engineering Experience
+## Security Engineering Experience
 
-### 🧠 AI-Driven Hybrid Intrusion Detection & Prevention System | 2025
-Built an intelligent intrusion detection platform leveraging CNN + BiLSTM for high-accuracy attack detection, GANs for zero-day simulation, and SHAP-based explainability. Deployed an edge-cloud architecture with real-time prevention and a SOC dashboard for automated response and incident visibility.
+### AI-Driven Hybrid Intrusion Detection & Prevention System | 2025
+Engineered an intelligent intrusion detection platform leveraging CNN + BiLSTM for high-accuracy attack detection, GAN-based zero-day simulation, and SHAP-driven explainability. Deployed an edge-cloud architecture with real-time prevention and a SOC dashboard for automated response.
 
-**Impact:** Demonstrates applied machine learning within security operations to create production-style detection capabilities.  
-**Tech:** Python • Machine Learning • ELK  
-
----
-
-### 🛡️ Enterprise SOC / SIEM Detection Lab | 2025
-Engineered a fully virtualized SOC environment integrating Splunk and ELK for centralized logging and incident response. Simulated real-world attacks including malware, privilege escalation, lateral movement, and data exfiltration while developing tuned detection logic mapped to MITRE ATT&CK.
-
-**Impact:** Highlights strong detection engineering ability and operational understanding of security monitoring.  
-**Tech:** Splunk • ELK • Kali Linux • Windows • REMnux  
+**Impact:** Applied machine learning to build production-style detection capabilities.
 
 ---
 
-### 🔐 Crypto Platform Security Assessment | 2025
-Performed a comprehensive OWASP-aligned security assessment, identifying critical vulnerabilities and integrating Secure SDLC practices. Strengthened API protections through HTTPS enforcement, access controls, rate limiting, and container scanning with Trivy.
+### Enterprise SOC / SIEM Detection Lab | 2025
+Built a fully virtualized SOC integrating Splunk and ELK for centralized logging and incident response. Simulated malware, privilege escalation, lateral movement, and data exfiltration while developing tuned detections mapped to MITRE ATT&CK.
 
-**Impact:** Showcases the ability to translate vulnerabilities into actionable remediation strategies.  
-
----
-
-### 🌐 Secure Perimeter Network Architecture | 2024
-Redesigned enterprise network segmentation with DMZ architecture, enforced firewall policies, implemented VPN-secured access, and centralized logs using ELK with Filebeat.
-
-**Impact:** Reflects practical expertise in reducing attack surfaces and strengthening infrastructure defenses.  
+**Impact:** Demonstrates operational detection engineering capability.
 
 ---
 
-### 📊 Compliance, Enterprise Hardening & Cloud Security | 2024
-Led a structured security uplift across Windows, macOS, and Linux environments aligned with NIST SP 800-53 and CMMC standards. Established cloud build standards and improved posture using CASB-driven controls.
+### Crypto Platform Security Assessment | 2025
+Performed an OWASP-aligned security assessment, identifying critical vulnerabilities and integrating Secure SDLC practices. Hardened APIs through HTTPS enforcement, access controls, rate limiting, and container scanning.
 
-**Impact:** Demonstrates strong governance, risk, and compliance awareness alongside enterprise security execution.  
----
-
-## Areas of Active Development
-
-- Building an AI-driven intrusion detection system using advanced detection techniques to strengthen real-time threat visibility  
-- Advancing SOC capabilities through structured training paths and hands-on lab simulations, focusing on threat detection and incident investigation  
-- Actively participating in Capture The Flag (CTF) challenges to enhance offensive security and analytical problem-solving skills  
-- Continuously refining adversarial and defensive techniques through practical experimentation  
-- Expanding detection engineering expertise to improve alert fidelity and reduce false positives  
+**Impact:** Translated vulnerabilities into actionable remediation.
 
 ---
 
-## 📫 Let's Connect
+### Secure Perimeter Network Architecture | 2024
+Redesigned network segmentation with DMZ architecture, enforced firewall policies, implemented VPN-secured access, and centralized logs for continuous monitoring.
 
-✉️ **Email:** tagirisaharshavardhan@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/  
-🌐 **Portfolio:** https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
-✍️ **Medium:** https://medium.com/@tagirisaharshavardhan  
+**Impact:** Reduced attack surface and strengthened infrastructure defenses.
+
+---
+
+### Compliance, Enterprise Hardening & Cloud Security | 2024
+Led a security uplift across Windows, macOS, and Linux aligned with NIST SP 800-53 and CMMC standards. Established cloud build standards and enhanced posture using CASB controls.
+
+**Impact:** Improved enterprise security readiness and compliance posture.
+
+---
+
+## Ongoing Security Development
+
+- Building an AI-driven intrusion detection system to enhance real-time threat visibility  
+- Advancing SOC capabilities through structured labs and simulated attack scenarios  
+- Actively participating in CTF challenges to sharpen offensive security skills  
+- Continuously refining adversarial and defensive techniques  
+- Expanding detection engineering expertise to improve alert accuracy  
+
+---
+
+## Connect
+
+✉️ tagirisaharshavardhan@gmail.com  
+🔗 https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/  
+🌐 https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
+✍️ https://medium.com/@tagirisaharshavardhan  
