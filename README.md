@@ -1,73 +1,93 @@
-<h1 align="center">Hi, I'm Harsha Vardhan 👋</h1>
-<h3 align="center"> Cybersecurity Analyst | Ethical Hacker | Network Defender | Developer</h3>
+# Harsha Vardhan Tagirisa
+
+Cybersecurity Engineer | Detection Engineering | SOC Operations | Penetration Testing  
 
 ---
 
-🎯  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
-<p align="center">
-<a href="https://tryhackme.com/p/H4ARSHA">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe Badge"/>
-</a>
-</p>
+## About
 
+Security engineer experienced in designing detection systems, conducting adversarial simulations, and strengthening enterprise infrastructure. Hands-on exposure across SOC operations, application security, network defense, and compliance-driven hardening.
+
+Experience spanning detection engineering, adversarial testing, and enterprise security architecture within controlled lab environments. Focused on building resilient environments through proactive threat detection and security engineering.
 
 ---
 
-🔐 **About Me**
-
-
-I’m a passionate cybersecurity enthusiast with a strong foundation in secure coding, ethical hacking, and building real-time defense mechanisms to protect digital assets.
-
-- 👨‍💻 **Aspiring SOC Analyst** with a deep interest in both **Red Team** and **Blue Team** operations
-- 📡  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
-- 🌐 Also enjoy crafting **secure full-stack web applications** and **system-level security tools**
-- 🎓 Final Year Cybersecurity Student at **Veltech University**
-- 🚀 Actively seeking **internships** and **entry-level roles** in:
-  - Security Operations
-  - Penetration Testing
-  - Cloud Security
-  - Compliance & Governance
-
+### Technical Focus
+Detection Engineering • Threat Analysis • Security Architecture • Application Security • Network Defense  
 
 ---
 
-## 🛠️ Technical Skills
+## Security Engineering Experience
 
-### 💻 Programming & Scripting:
-- Python
+### AI-Driven Hybrid Intrusion Detection & Prevention System | Jul 2025
+Developed an advanced intrusion detection and prevention platform leveraging CNN + BiLSTM models for high-accuracy attack detection, GANs for zero-day threat simulation, and SHAP-based explainability to enhance alert transparency. Implemented edge-cloud deployment with real-time prevention capabilities and built a SOC dashboard for alert visualization, automated response, and incident management.
 
-### 🖥️ Operating Systems:
-- Windows, Kali Linux, Parrot OS, Ubuntu
+Demonstrates practical application of machine learning within security operations to build intelligent, production-style detection systems.
 
-### 🧰 Tools & Technologies:
-- **Penetration Testing**: Metasploit, Burp Suite, Nmap, SQLMap
-- **SIEM & Log Analysis**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat
-- **IDS/IPS**: Snort
-- **Network Traffic Analysis**: Wireshark, tcpdump
-- **Vulnerability Assessment**: Nessus, OpenVAS
-- **Cyber Forensics**: Autopsy, Belkasoft Evidence Center, EnCase
-- **Web Development**: Node.js, Express.js, Angular, MongoDB, MySQL
-- **Cryptography**: AES, RSA, SSL/TLS, Hashing Algorithms (SHA, MD5)
-
-### 📌 Areas of Expertise:
-- SOC Operations, Threat Detection, Exploit Development  
-- Secure Web Architecture, USB & Endpoint Security  
-- Enterprise System Hardening (Windows/macOS/Linux)
-
-### 🤝 Soft Skills:
-- Strong Communication, Rapid Self-Learning, Team Collaboration, Adaptability
-
-### 🧭 Languages Known:
-- English (Fluent), Telugu (Native), Kannada (Conversational)
-
-### 🗂️ Productivity:
-- Microsoft Office Suite (Word, PowerPoint, Excel)
+**Repository:** ADD_LINK  
 
 ---
 
-### 📫 Let's Connect:
+### Enterprise SOC / SIEM Detection Lab | Jan 2025
+Built and operated a fully virtualized SOC environment using Kali Linux, Windows, REMnux, and VirtualBox. Deployed ELK Stack and Splunk for centralized log analysis and incident response, simulated real-world attacks including brute force, malware, privilege escalation, lateral movement, and data exfiltration, and engineered detection logic for each scenario. Tuned alerts, mapped incidents to MITRE ATT&CK, and documented response workflows.
 
-- ✉️ Email: [tagirisaharshavardhan@gmail.com](mailto:tagirisaharshavardhan@gmail.com)
-- 🔗 LinkedIn:https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/
-- portfolio: https://tagirisa-harshavardhan-9xsfdyn.gamma.site/
-- Medium: https://medium.com/@tagirisaharshavardhan
+Showcases hands-on detection engineering skills and practical experience building enterprise-style monitoring infrastructure.
+
+**Repository:** ADD_LINK  
+
+---
+
+### Security Assessment — CryptoVault Platform | Feb 2025
+Conducted a comprehensive security evaluation aligned with OWASP Top 10, identifying critical vulnerabilities and driving remediation across the application lifecycle. Integrated Secure SDLC practices, performed container vulnerability scanning using Trivy, and strengthened API protections through HTTPS enforcement, rate limiting, strict access controls, and input validation.
+
+Highlights strong application security expertise and the ability to translate vulnerabilities into actionable security improvements.
+
+**Repository:** ADD_LINK  
+
+---
+
+### Secure Perimeter Network Architecture & Monitoring | Nov 2024
+Redesigned enterprise network architecture with segmented DMZ and internal subnets, enforced firewall policies, and implemented VPN-secured access to reduce attack exposure. Centralized logs using ELK Stack with Filebeat and validated defenses through continuous threat simulations.
+
+Reflects practical knowledge of network defense and secure infrastructure design.
+
+**Repository:** ADD_LINK  
+
+---
+
+### Compliance Assessment, Enterprise Hardening & Cloud Security | Sep 2024
+Led a structured cybersecurity uplift focused on endpoint hardening across Windows, macOS, and Linux, policy development for email and BYOD, and regulatory alignment with NIST SP 800-53 and CMMC standards. Established cloud build standards, enhanced posture using CASB capabilities, and delivered remediation strategies that improved overall security readiness.
+
+Demonstrates strong understanding of governance, risk, compliance, and enterprise security controls.
+
+**Repository:** ADD_LINK  
+
+---
+
+## Core Stack
+
+Splunk • ELK • Python • Burp Suite • Nessus • Nmap • Autopsy • MITRE ATT&CK  
+
+---
+
+## Areas of Ongoing Focus
+
+Detection engineering, threat hunting, advanced security monitoring, and cloud security.
+
+---
+
+## Education
+
+B.Tech — Computer Science and Engineering  
+Vel Tech University | CGPA: 8.3  
+
+Cybersecurity MicroDegree — IIT Guwahati  
+
+---
+
+## 📫 Let's Connect
+
+✉️ Email: tagirisaharshavardhan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/  
+🌐 Portfolio: https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
+✍️ Medium: https://medium.com/@tagirisaharshavardhan  
