@@ -14,7 +14,7 @@ Security-focused engineer experienced in building detection systems, reducing at
 
 <p align="center">
 <a href="https://tryhackme.com/p/H4ARSHA">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1806733"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe Badge"/>
 </a>
 </p>
 
