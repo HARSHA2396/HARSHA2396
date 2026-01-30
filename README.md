@@ -1,68 +1,176 @@
-<h1 align="center">Hi, I'm Harsha Vardhan 👋</h1>
-<h3 align="center"> Cybersecurity Analyst | Ethical Hacker | Network Defender | Developer</h3>
+<h1 align="center">Harsha Vardhan Tagirisa</h1>
+
+<h3 align="center">
+Cybersecurity Engineer | Detection Engineering | SOC | AI Threat Detection
+</h3>
+
+<p align="center">
+🏆 SOC Lab Builder • 🧠 AI IDS Engineer • 🛡️ Security Architecture • 🔎 Threat Hunter
+</p>
+
+<p align="center">
+Security-focused engineer experienced in building detection systems, reducing attack surfaces, and securing enterprise environments against modern cyber threats.
+</p>
+
+<p align="center">
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1806733"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+</p>
 
 ---
 
-🎯  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
+# 🚨 Security Engineering Portfolio
 
+## 🧠 AI-Driven Hybrid Intrusion Detection & Prevention System
 
----
+Engineered a deep-learning-based intrusion detection platform capable of identifying sophisticated attack patterns with high accuracy.
 
-🔐 **About Me**
+✔ 97%+ detection accuracy  
+✔ GAN-based zero-day attack simulation  
+✔ SHAP-powered explainable alerts  
+✔ Edge-cloud deployment  
+✔ Real-time SOC dashboard with automated response  
 
+**Tech Stack:** Python • Deep Learning • ELK • Cloud Architecture  
 
-I’m a passionate cybersecurity enthusiast with a strong foundation in secure coding, ethical hacking, and building real-time defense mechanisms to protect digital assets.
-
-- 👨‍💻 **Aspiring SOC Analyst** with a deep interest in both **Red Team** and **Blue Team** operations
-- 📡  Skilled in **Threat Detection**, **Digital Forensics**, **Penetration Testing**, **Secure System Architecture**, **Network Security Monitoring**, and **Exploit Development**
-- 🌐 Also enjoy crafting **secure full-stack web applications** and **system-level security tools**
-- 🎓 Final Year Cybersecurity Student at **Veltech University**
-- 🚀 Actively seeking **internships** and **entry-level roles** in:
-  - Security Operations
-  - Penetration Testing
-  - Cloud Security
-  - Compliance & Governance
-
+👉 Repo: ADD_LINK_HERE
 
 ---
 
-## 🛠️ Technical Skills
+## 🛡️ Enterprise SOC / SIEM Detection Lab
 
-### 💻 Programming & Scripting:
-- Python
+Built a production-style virtual SOC to simulate adversarial activity and validate detection logic across enterprise attack scenarios.
 
-### 🖥️ Operating Systems:
-- Windows, Kali Linux, Parrot OS, Ubuntu
+✔ Brute force detection  
+✔ Malware telemetry monitoring  
+✔ Privilege escalation alerts  
+✔ Lateral movement visibility  
+✔ Data exfiltration detection  
+✔ MITRE ATT&CK mapping  
 
-### 🧰 Tools & Technologies:
-- **Penetration Testing**: Metasploit, Burp Suite, Nmap, SQLMap
-- **SIEM & Log Analysis**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat
-- **IDS/IPS**: Snort
-- **Network Traffic Analysis**: Wireshark, tcpdump
-- **Vulnerability Assessment**: Nessus, OpenVAS
-- **Cyber Forensics**: Autopsy, Belkasoft Evidence Center, EnCase
-- **Web Development**: Node.js, Express.js, Angular, MongoDB, MySQL
-- **Cryptography**: AES, RSA, SSL/TLS, Hashing Algorithms (SHA, MD5)
+**Stack:** Splunk • ELK • Kali Linux • Windows • REMnux  
 
-### 📌 Areas of Expertise:
-- SOC Operations, Threat Detection, Exploit Development  
-- Secure Web Architecture, USB & Endpoint Security  
-- Enterprise System Hardening (Windows/macOS/Linux)
-
-### 🤝 Soft Skills:
-- Strong Communication, Rapid Self-Learning, Team Collaboration, Adaptability
-
-### 🧭 Languages Known:
-- English (Fluent), Telugu (Native), Kannada (Conversational)
-
-### 🗂️ Productivity:
-- Microsoft Office Suite (Word, PowerPoint, Excel)
+👉 Repo: ADD_LINK_HERE
 
 ---
 
-### 📫 Let's Connect:
+## 🔐 Crypto Platform Security Assessment
 
-- ✉️ Email: [tagirisaharshavardhan@gmail.com](mailto:tagirisaharshavardhan@gmail.com)
-- 🔗 LinkedIn:https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/
-- portfolio: https://tagirisa-harshavardhan-9xsfdyn.gamma.site/
-- Medium: https://medium.com/@tagirisaharshavardhan
+Performed a structured OWASP-aligned security assessment to harden application infrastructure and reduce attack surface.
+
+✔ Container vulnerability scanning (Trivy)  
+✔ Secure SDLC integration  
+✔ API hardening with HTTPS and strict access controls  
+✔ Rate limiting and input validation  
+
+👉 Repo: ADD_LINK_HERE
+
+---
+
+## 🌐 Secure Perimeter Network Architecture
+
+Redesigned enterprise network segmentation to strengthen perimeter defenses and improve threat visibility.
+
+✔ DMZ architecture  
+✔ Firewall policy enforcement  
+✔ VPN-secured access  
+✔ Centralized logging with ELK + Filebeat  
+✔ Continuous threat monitoring  
+
+👉 Repo: ADD_LINK_HERE
+
+---
+
+## 📋 Compliance & Enterprise Hardening
+
+Executed a security uplift aligned with modern regulatory frameworks.
+
+✔ Windows & macOS desktop hardening  
+✔ BYOD and email security policies  
+✔ Cloud security standards  
+✔ CASB-driven posture improvements  
+✔ NIST & CMMC alignment  
+
+👉 Repo: ADD_LINK_HERE
+
+---
+
+# ⚔️ Core Security Stack
+
+**Detection Engineering:** Splunk • ELK • SIEM Rule Development • Alert Tuning  
+**Offensive Security:** Burp Suite • Nessus • Nmap • Wireshark  
+**Forensics:** Autopsy • Belkasoft  
+**Security Engineering:** Network Segmentation • Endpoint Hardening • Secure SDLC  
+**Programming:** Python  
+
+---
+
+# 🧠 Currently Deepening Expertise In
+
+• Detection Engineering  
+• Threat Hunting  
+• Malware Analysis  
+• Cloud Security  
+• Advanced SIEM Workflows  
+
+---
+
+# 🎓 Education
+
+**B.Tech – Computer Science and Engineering**  
+Vel Tech University — CGPA: 8.3  
+
+**Cybersecurity MicroDegree**  
+IIT Guwahati — 87%
+
+---
+
+# 🏆 Certifications
+
+✔ ISO/IEC 27001:2022 Lead Auditor  
+✔ Cisco CCNA – Enterprise Networking, Security & Automation  
+✔ AWS Cloud Foundations  
+✔ Windows Forensics – Belkasoft  
+✔ Python Essentials – Cisco  
+
+---
+
+# 🎯 Career Focus
+
+Actively seeking opportunities in:
+
+✅ Security Operations (SOC)  
+✅ Detection Engineering  
+✅ Security Engineering  
+✅ Threat Intelligence  
+✅ Cloud Security  
+
+📌 **Available for Internship / Full-Time Roles (2026)**
+
+---
+
+# 📊 GitHub Strategy
+
+👉 Pin ONLY these repositories:
+
+🥇 AI Intrusion Detection System  
+🥈 SOC Detection Lab  
+🥉 Security Assessment  
+
+Quality > Quantity.
+
+---
+
+# 📫 Connect With Me
+
+📧 tagirisaharshavardhan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/  
+🌐 Portfolio: https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
+✍️ Medium: https://medium.com/@tagirisaharshavardhan  
+
+---
