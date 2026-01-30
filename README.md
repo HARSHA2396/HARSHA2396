@@ -154,18 +154,6 @@ Actively seeking opportunities in:
 
 ---
 
-# 📊 GitHub Strategy
-
-👉 Pin ONLY these repositories:
-
-🥇 AI Intrusion Detection System  
-🥈 SOC Detection Lab  
-🥉 Security Assessment  
-
-Quality > Quantity.
-
----
-
 # 📫 Connect With Me
 
 📧 tagirisaharshavardhan@gmail.com  
