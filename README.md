@@ -1,84 +1,93 @@
-# Harsha Vardhan Tagirisa
+<h1 align="center">Harsha Vardhan Tagirisa</h1>
 
-Cybersecurity Engineer | Detection Engineering | SOC Operations | Penetration Testing  
+<p align="center">
+<b>Penetration Tester</b> | <b>Threat Analyst</b> | <b>SOC Analyst</b>
+</p>
 
----
-
-## About
-
-Security engineer experienced in designing detection systems, conducting adversarial simulations, and strengthening enterprise infrastructure. Hands-on exposure across SOC operations, application security, network defense, and compliance-driven hardening.
-
-Experience spanning detection engineering, adversarial testing, and enterprise security architecture within controlled lab environments. Focused on building resilient environments through proactive threat detection and security engineering.
+<p align="center">
+Designing resilient systems, engineering detection pipelines, and securing infrastructure against modern threats.
+</p>
 
 ---
 
-### Technical Focus
-Detection Engineering • Threat Analysis • Security Architecture • Application Security • Network Defense  
+## 🧭 About
+
+Security engineer with hands-on experience across offensive and defensive domains, specializing in threat detection, adversarial simulation, and enterprise security architecture.
+
+Proven ability to build security labs, engineer SIEM detections, assess application risk, and implement hardened network environments.
 
 ---
 
-## Security Engineering Experience
+## ⚡ Technical Focus
+🛡️ Detection Engineering  
+🔎 Threat Analysis  
+🏗️ Security Architecture  
+🌐 Application Security  
+🚨 Network Defense  
 
-### AI-Driven Hybrid Intrusion Detection & Prevention System | Jul 2025
-Developed an advanced intrusion detection and prevention platform leveraging CNN + BiLSTM models for high-accuracy attack detection, GANs for zero-day threat simulation, and SHAP-based explainability to enhance alert transparency. Implemented edge-cloud deployment with real-time prevention capabilities and built a SOC dashboard for alert visualization, automated response, and incident management.
+---
 
-Demonstrates practical application of machine learning within security operations to build intelligent, production-style detection systems.
+## 🚀 Security Engineering Experience
 
+### 🧠 AI-Driven Hybrid Intrusion Detection & Prevention System | 2025
+Built an intelligent intrusion detection platform leveraging CNN + BiLSTM for high-accuracy attack detection, GANs for zero-day simulation, and SHAP-based explainability. Deployed an edge-cloud architecture with real-time prevention and a SOC dashboard for automated response and incident visibility.
+
+**Impact:** Demonstrates applied machine learning within security operations to create production-style detection capabilities.  
+**Tech:** Python • Machine Learning • ELK  
 **Repository:** ADD_LINK  
 
 ---
 
-### Enterprise SOC / SIEM Detection Lab | Jan 2025
-Built and operated a fully virtualized SOC environment using Kali Linux, Windows, REMnux, and VirtualBox. Deployed ELK Stack and Splunk for centralized log analysis and incident response, simulated real-world attacks including brute force, malware, privilege escalation, lateral movement, and data exfiltration, and engineered detection logic for each scenario. Tuned alerts, mapped incidents to MITRE ATT&CK, and documented response workflows.
+### 🛡️ Enterprise SOC / SIEM Detection Lab | 2025
+Engineered a fully virtualized SOC environment integrating Splunk and ELK for centralized logging and incident response. Simulated real-world attacks including malware, privilege escalation, lateral movement, and data exfiltration while developing tuned detection logic mapped to MITRE ATT&CK.
 
-Showcases hands-on detection engineering skills and practical experience building enterprise-style monitoring infrastructure.
-
+**Impact:** Highlights strong detection engineering ability and operational understanding of security monitoring.  
+**Tech:** Splunk • ELK • Kali Linux • Windows • REMnux  
 **Repository:** ADD_LINK  
 
 ---
 
-### Security Assessment — CryptoVault Platform | Feb 2025
-Conducted a comprehensive security evaluation aligned with OWASP Top 10, identifying critical vulnerabilities and driving remediation across the application lifecycle. Integrated Secure SDLC practices, performed container vulnerability scanning using Trivy, and strengthened API protections through HTTPS enforcement, rate limiting, strict access controls, and input validation.
+### 🔐 Crypto Platform Security Assessment | 2025
+Performed a comprehensive OWASP-aligned security assessment, identifying critical vulnerabilities and integrating Secure SDLC practices. Strengthened API protections through HTTPS enforcement, access controls, rate limiting, and container scanning with Trivy.
 
-Highlights strong application security expertise and the ability to translate vulnerabilities into actionable security improvements.
-
+**Impact:** Showcases the ability to translate vulnerabilities into actionable remediation strategies.  
 **Repository:** ADD_LINK  
 
 ---
 
-### Secure Perimeter Network Architecture & Monitoring | Nov 2024
-Redesigned enterprise network architecture with segmented DMZ and internal subnets, enforced firewall policies, and implemented VPN-secured access to reduce attack exposure. Centralized logs using ELK Stack with Filebeat and validated defenses through continuous threat simulations.
+### 🌐 Secure Perimeter Network Architecture | 2024
+Redesigned enterprise network segmentation with DMZ architecture, enforced firewall policies, implemented VPN-secured access, and centralized logs using ELK with Filebeat.
 
-Reflects practical knowledge of network defense and secure infrastructure design.
-
+**Impact:** Reflects practical expertise in reducing attack surfaces and strengthening infrastructure defenses.  
 **Repository:** ADD_LINK  
 
 ---
 
-### Compliance Assessment, Enterprise Hardening & Cloud Security | Sep 2024
-Led a structured cybersecurity uplift focused on endpoint hardening across Windows, macOS, and Linux, policy development for email and BYOD, and regulatory alignment with NIST SP 800-53 and CMMC standards. Established cloud build standards, enhanced posture using CASB capabilities, and delivered remediation strategies that improved overall security readiness.
+### 📊 Compliance, Enterprise Hardening & Cloud Security | 2024
+Led a structured security uplift across Windows, macOS, and Linux environments aligned with NIST SP 800-53 and CMMC standards. Established cloud build standards and improved posture using CASB-driven controls.
 
-Demonstrates strong understanding of governance, risk, compliance, and enterprise security controls.
-
+**Impact:** Demonstrates strong governance, risk, and compliance awareness alongside enterprise security execution.  
 **Repository:** ADD_LINK  
 
 ---
 
-## Core Stack
+## 🧰 Core Stack
 
-Splunk • ELK • Python • Burp Suite • Nessus • Nmap • Autopsy • MITRE ATT&CK  
-
----
-
-## Areas of Ongoing Focus
-
-Detection engineering, threat hunting, advanced security monitoring, and cloud security.
+**Detection & SIEM:** Splunk, ELK  
+**Offensive Security:** Burp Suite, Nessus, Nmap  
+**Programming:** Python  
+**Frameworks:** MITRE ATT&CK, OWASP  
+**Forensics:** Autopsy, Belkasoft  
 
 ---
 
-## Education
+## 📈 Current Focus
+Detection engineering • Threat hunting • Advanced monitoring • Cloud security  
 
-B.Tech — Computer Science and Engineering  
+---
+
+## 🎓 Education
+**B.Tech — Computer Science and Engineering**  
 Vel Tech University | CGPA: 8.3  
 
 Cybersecurity MicroDegree — IIT Guwahati  
@@ -87,7 +96,7 @@ Cybersecurity MicroDegree — IIT Guwahati
 
 ## 📫 Let's Connect
 
-✉️ Email: tagirisaharshavardhan@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/  
-🌐 Portfolio: https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
-✍️ Medium: https://medium.com/@tagirisaharshavardhan  
+✉️ **Email:** tagirisaharshavardhan@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/harshavardhan-tagirisa-98614a2b2/  
+🌐 **Portfolio:** https://tagirisa-harshavardhan-9xsfdyn.gamma.site/  
+✍️ **Medium:** https://medium.com/@tagirisaharshavardhan  
