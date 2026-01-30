@@ -7,10 +7,13 @@
 <p align="center">
 Designing resilient systems, engineering detection pipelines, and securing infrastructure against modern threats.
 </p>
+<p align="center">
+<a href="https://tryhackme.com/p/H4ARSHA">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe Badge"/>
+</a>
+</p>
 
----
-
-## 🧭 About
+## 🧭 About Me
 
 Security engineer with hands-on experience across offensive and defensive domains, specializing in threat detection, adversarial simulation, and enterprise security architecture.
 
@@ -18,12 +21,26 @@ Proven ability to build security labs, engineer SIEM detections, assess applicat
 
 ---
 
-## ⚡ Technical Focus
-🛡️ Detection Engineering  
-🔎 Threat Analysis  
-🏗️ Security Architecture  
-🌐 Application Security  
-🚨 Network Defense  
+## Security Operations Experience
+
+### 🔴 Red Team Operations
+- Performed network reconnaissance and traffic analysis to identify attack paths and exposed services  
+- Conducted vulnerability assessments to uncover security weaknesses across systems and applications  
+- Executed web application security testing aligned with OWASP methodologies  
+- Simulated adversarial techniques in controlled environments to evaluate defensive effectiveness  
+- Validated misconfigurations, authentication flaws, and access control gaps  
+- Analyzed attack surfaces to recommend remediation strategies  
+
+---
+
+### 🔵 Blue Team Operations
+- Monitored network activity and analyzed traffic patterns to detect suspicious behavior  
+- Conducted centralized log analysis to support threat detection and incident investigation  
+- Engineered detection logic to improve visibility across security events  
+- Investigated alerts and mapped attacker behavior to MITRE ATT&CK techniques  
+- Strengthened infrastructure through segmentation, system hardening, and defensive controls  
+- Supported incident response by identifying indicators of compromise and abnormal activity  
+
 
 ---
 
@@ -34,7 +51,6 @@ Built an intelligent intrusion detection platform leveraging CNN + BiLSTM for hi
 
 **Impact:** Demonstrates applied machine learning within security operations to create production-style detection capabilities.  
 **Tech:** Python • Machine Learning • ELK  
-**Repository:** ADD_LINK  
 
 ---
 
@@ -43,7 +59,6 @@ Engineered a fully virtualized SOC environment integrating Splunk and ELK for ce
 
 **Impact:** Highlights strong detection engineering ability and operational understanding of security monitoring.  
 **Tech:** Splunk • ELK • Kali Linux • Windows • REMnux  
-**Repository:** ADD_LINK  
 
 ---
 
@@ -51,7 +66,6 @@ Engineered a fully virtualized SOC environment integrating Splunk and ELK for ce
 Performed a comprehensive OWASP-aligned security assessment, identifying critical vulnerabilities and integrating Secure SDLC practices. Strengthened API protections through HTTPS enforcement, access controls, rate limiting, and container scanning with Trivy.
 
 **Impact:** Showcases the ability to translate vulnerabilities into actionable remediation strategies.  
-**Repository:** ADD_LINK  
 
 ---
 
@@ -59,7 +73,6 @@ Performed a comprehensive OWASP-aligned security assessment, identifying critica
 Redesigned enterprise network segmentation with DMZ architecture, enforced firewall policies, implemented VPN-secured access, and centralized logs using ELK with Filebeat.
 
 **Impact:** Reflects practical expertise in reducing attack surfaces and strengthening infrastructure defenses.  
-**Repository:** ADD_LINK  
 
 ---
 
@@ -67,30 +80,15 @@ Redesigned enterprise network segmentation with DMZ architecture, enforced firew
 Led a structured security uplift across Windows, macOS, and Linux environments aligned with NIST SP 800-53 and CMMC standards. Established cloud build standards and improved posture using CASB-driven controls.
 
 **Impact:** Demonstrates strong governance, risk, and compliance awareness alongside enterprise security execution.  
-**Repository:** ADD_LINK  
-
 ---
 
-## 🧰 Core Stack
+## Areas of Active Development
 
-**Detection & SIEM:** Splunk, ELK  
-**Offensive Security:** Burp Suite, Nessus, Nmap  
-**Programming:** Python  
-**Frameworks:** MITRE ATT&CK, OWASP  
-**Forensics:** Autopsy, Belkasoft  
-
----
-
-## 📈 Current Focus
-Detection engineering • Threat hunting • Advanced monitoring • Cloud security  
-
----
-
-## 🎓 Education
-**B.Tech — Computer Science and Engineering**  
-Vel Tech University | CGPA: 8.3  
-
-Cybersecurity MicroDegree — IIT Guwahati  
+- Building an AI-driven intrusion detection system using advanced detection techniques to strengthen real-time threat visibility  
+- Advancing SOC capabilities through structured training paths and hands-on lab simulations, focusing on threat detection and incident investigation  
+- Actively participating in Capture The Flag (CTF) challenges to enhance offensive security and analytical problem-solving skills  
+- Continuously refining adversarial and defensive techniques through practical experimentation  
+- Expanding detection engineering expertise to improve alert fidelity and reduce false positives  
 
 ---
 
