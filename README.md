@@ -14,15 +14,14 @@
 Security-focused professional building detection systems, simulating adversarial activity, and strengthening enterprise defenses.
 </p>
 
+
 <p align="center">
 <a href="https://tryhackme.com/p/H4ARSHA">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" width="260"/>
+  <<img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" width="260"/>
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00ffa6&style=flat-square"/>
-</p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:2563eb&height=3"/>
@@ -55,11 +54,11 @@ Proven ability to build SOC labs, engineer detection logic, assess application r
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff6b6b,100:b91c1c&height=32&width=180&section=header&text=Red%20Team&fontSize=15&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff6b6b,100:b91c1c&height=32&width=100&section=header&text=Red%20Team&fontSize=15&fontColor=ffffff"/>
 
 
 ```diff
-+ Adversarial simulation • Vulnerability discovery • Attack surface analysis
+ Adversarial simulation • Vulnerability discovery • Attack surface analysis
 ```
 
 - Executed network reconnaissance to identify exposed services  
