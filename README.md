@@ -23,11 +23,11 @@
 
 > **About Me:** Security engineer with hands-on experience across offensive and defensive security, specializing in threat detection, adversarial simulation, and enterprise security architecture. Proven ability to build SOC labs, engineer detection logic, assess application risk, and implement hardened network environments.
 
-- ** Engineered an AI-driven intrusion detection system** for high-accuracy threat identification  
-- ** Built a fully operational SOC lab** simulating real-world attack scenarios  
-- ** Conducted OWASP-aligned security assessments** and drove remediation  
-- ** Designed segmented network architectures** to reduce attack surface  
-- ** Implemented detection logic** mapped to MITRE ATT&CK  
+- 🔹 Engineered an AI-driven intrusion detection system for high-accuracy threat identification  
+- 🔹 Built a fully operational SOC lab simulating real-world attack scenarios  
+- 🔹 Conducted OWASP-aligned security assessments and drove remediation  
+- 🔹 Designed segmented network architectures to reduce attack surface  
+- 🔹 Implemented detection logic mapped to MITRE ATT&CK  
 
 <br/>
 
@@ -47,11 +47,11 @@
 - Attack surface analysis
 ```
 
-- Executed network reconnaissance to identify exposed services  
-- Conducted vulnerability assessments across applications and infrastructure  
-- Performed OWASP-aligned testing  
-- Simulated real-world attack techniques  
-- Validated access control and configuration weaknesses  
+- 🔹 Executed network reconnaissance to identify exposed services  
+- 🔹 Conducted vulnerability assessments across applications and infrastructure  
+- 🔹 Performed OWASP-aligned testing  
+- 🔹 Simulated real-world attack techniques  
+- 🔹 Validated access control and configuration weaknesses  
 
 </td>
 <td width="50%" valign="top">
@@ -66,11 +66,11 @@
 + Incident investigation
 ```
 
-- Monitored network activity to detect anomalous behavior  
-- Engineered detection logic to improve visibility  
-- Investigated alerts and mapped activity to MITRE ATT&CK  
-- Strengthened environments through segmentation and hardening  
-- Identified indicators of compromise supporting response efforts  
+- 🔹 Monitored network activity to detect anomalous behavior  
+- 🔹 Engineered detection logic to improve visibility  
+- 🔹 Investigated alerts and mapped activity to MITRE ATT&CK  
+- 🔹 Strengthened environments through segmentation and hardening  
+- 🔹 Identified indicators of compromise supporting response efforts  
 
 </td>
 </tr>
@@ -84,9 +84,9 @@
 > **Machine-learning powered detection platform built for modern SOC environments.**
 
 Designed and engineered an advanced IDS/IPS leveraging CNN + BiLSTM models for high-accuracy threat detection, GAN-based zero-day attack simulation, and SHAP explainability for transparent alerting.
-✔ Built an edge-cloud architecture enabling real-time threat prevention  
-✔ Developed a SOC dashboard for alert visualization and automated response  
-✔ Improved detection capability against previously unseen attack patterns  
+- 🔹 Built an edge-cloud architecture enabling real-time threat prevention  
+- 🔹 Developed a SOC dashboard for alert visualization and automated response  
+- 🔹 Improved detection capability against previously unseen attack patterns  
 **Impact:** Demonstrates the ability to integrate AI into security operations and build production-style detection pipelines.
 
 ---
@@ -95,9 +95,9 @@ Designed and engineered an advanced IDS/IPS leveraging CNN + BiLSTM models for h
 > **Production-style SOC environment simulating real-world attack campaigns.**
 
 Architected a fully virtualized SOC using Splunk and ELK to centralize telemetry and support incident response workflows.
- ✔ Simulated brute force, malware, lateral movement, privilege escalation, and exfiltration  
- ✔ Engineered detection rules mapped directly to MITRE ATT&CK  
- ✔ Tuned alerts to reduce noise and improve investigation efficiency  
+- 🔹 Simulated brute force, malware, lateral movement, privilege escalation, and exfiltration  
+- 🔹 Engineered detection rules mapped directly to MITRE ATT&CK  
+- 🔹 Tuned alerts to reduce noise and improve investigation efficiency  
 **Impact:** Showcases operational readiness for security monitoring and detection engineering roles.
 
 ---
@@ -106,9 +106,9 @@ Architected a fully virtualized SOC using Splunk and ELK to centralize telemetry
 > **Comprehensive application security evaluation aligned with OWASP standards.**
 
 Performed deep security testing to uncover critical vulnerabilities and integrated Secure SDLC practices to strengthen the platform.
- ✔ Hardened APIs through strict access controls and rate limiting  
- ✔ Enforced HTTPS and secure communication channels  
- ✔ Conducted container vulnerability scanning to reduce attack surface  
+- 🔹 Hardened APIs through strict access controls and rate limiting  
+- 🔹 Enforced HTTPS and secure communication channels  
+- 🔹 Conducted container vulnerability scanning to reduce attack surface  
 **Impact:** Highlights the capability to translate security findings into actionable remediation.
 
 ---
@@ -117,9 +117,9 @@ Performed deep security testing to uncover critical vulnerabilities and integrat
 > **Defense-focused network redesign emphasizing segmentation and visibility.**
 
 Re-architected enterprise network zones with DMZ isolation, firewall enforcement, and VPN-secured access.
- ✔ Centralized logs for continuous monitoring  
- ✔ Reduced lateral movement risk through segmentation  
- ✔ Strengthened perimeter defenses against external threats  
+- 🔹 Centralized logs for continuous monitoring  
+- 🔹 Reduced lateral movement risk through segmentation  
+- 🔹 Strengthened perimeter defenses against external threats  
 **Impact:** Reflects strong infrastructure security and attack surface reduction expertise.
 
 ---
@@ -128,21 +128,21 @@ Re-architected enterprise network zones with DMZ isolation, firewall enforcement
 > **Enterprise security uplift aligned with modern regulatory frameworks.**
 
 Led endpoint hardening initiatives across Windows, macOS, and Linux while aligning controls with NIST SP 800-53 and CMMC.
- ✔ Developed secure configuration baselines  
- ✔ Established cloud build standards  
- ✔ Enhanced posture using CASB-driven controls  
+- 🔹 Developed secure configuration baselines  
+- 🔹 Established cloud build standards  
+- 🔹 Enhanced posture using CASB-driven controls  
 **Impact:** Demonstrates governance awareness alongside hands-on technical security execution.
 
 <br/>
 
 ## 🚀 Active Initiatives
 
-- 🔭 Building next-generation AI-driven detection capabilities focused on improving alert fidelity and reducing false positives
-- ⚔️ Advancing detection engineering expertise through hands-on SOC simulations and attack scenario modeling  
-- 🚩 Actively competing in Capture The Flag (CTF) challenges to sharpen offensive techniques and analytical thinking  
-- 🔍 Expanding threat investigation skills through structured labs and real-world telemetry analysis  
-- 🛡️ Continuously strengthening both red and blue team methodologies to maintain balanced security proficiency  
-- 📈 Tracking emerging threat vectors and adapting defensive strategies to evolving attack landscapes  
+- 🔹 Building next-generation AI-driven detection capabilities focused on improving alert fidelity and reducing false positives
+- 🔹 Advancing detection engineering expertise through hands-on SOC simulations and attack scenario modeling  
+- 🔹 Actively competing in Capture The Flag (CTF) challenges to sharpen offensive techniques and analytical thinking  
+- 🔹 Expanding threat investigation skills through structured labs and real-world telemetry analysis  
+- 🔹 Continuously strengthening both red and blue team methodologies to maintain balanced security proficiency  
+- 🔹 Tracking emerging threat vectors and adapting defensive strategies to evolving attack landscapes  
 
 <br/>
 
