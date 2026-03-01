@@ -85,7 +85,7 @@
 
 Designed and engineered an advanced IDS/IPS leveraging CNN + BiLSTM models for high-accuracy threat detection, GAN-based zero-day attack simulation, and SHAP explainability for transparent alerting.
 ✔ Built an edge-cloud architecture enabling real-time threat prevention  
- ✔ Developed a SOC dashboard for alert visualization and automated response  
+✔ Developed a SOC dashboard for alert visualization and automated response  
 ✔ Improved detection capability against previously unseen attack patterns  
 **Impact:** Demonstrates the ability to integrate AI into security operations and build production-style detection pipelines.
 
