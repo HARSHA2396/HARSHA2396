@@ -135,7 +135,7 @@ Led endpoint hardening initiatives across Windows, macOS, and Linux while aligni
 
 <br/>
 
-## 💻 Projects Built
+## 💻 Tools
 
 <table align="center" width="100%">
   <tr>
