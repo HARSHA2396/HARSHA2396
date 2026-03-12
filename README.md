@@ -9,7 +9,7 @@
   </p>
   
   <a href="https://tryhackme.com/p/H4ARSHA">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe" width="260"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="Your Image Badge" />
   </a>
 </div>
 
