@@ -11,8 +11,8 @@
 <div align="center">
 
 <a href="https://tryhackme.com/p/H4ARSHA">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png" alt="TryHackMe Badge">
-</a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png?v=2" />
+</a>>
 
 </div>>
 
