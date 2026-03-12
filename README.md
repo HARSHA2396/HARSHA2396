@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Harsha%20Vardhan%20Tagirisa&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=Security%20Engineer%20%7C%20Threat%20Analyst&descAlignY=70&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Harsha%20Vardhan%20Tagirisa&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=Penetration%20Tester%20%7C%20Cyber%20Security%20Analyst&descAlignY=70&descAlign=50" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=SOC+Analyst;Threat+Analyst;Penetration+Tester;Detection-Focused+Security+Professional" alt="Typing SVG" />
   
@@ -15,13 +15,11 @@
 </a>
 </p>
 
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=2&width=100%"/>
 </div>
 
-## 🎯 Key Security Highlights
+</div> ## 🎯 Key Security Highlights
 
 > **About Me:** Security engineer with hands-on experience across offensive and defensive security, specializing in threat detection, adversarial simulation, and enterprise security architecture. Proven ability to build SOC labs, engineer detection logic, assess application risk, and implement hardened network environments.
 
@@ -154,7 +152,7 @@ Led endpoint hardening initiatives across Windows, macOS, and Linux while aligni
   </tr>
 </table>
 
-<br/>
+
 
 ## 🚀 Active Initiatives
 
