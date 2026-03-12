@@ -8,13 +8,12 @@
     <i>Security-focused professional building detection systems, simulating adversarial activity, and strengthening enterprise defenses.</i>
   </p>
   
-<div align="center">
+
 
 <a href="https://tryhackme.com/p/H4ARSHA">
   <img src="https://tryhackme-badges.s3.amazonaws.com/H4ARSHA.png?v=2" />
-</a>>
+</a>
 
-</div>>
 
 <br/>
 
