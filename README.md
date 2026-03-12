@@ -19,7 +19,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=2&width=100%"/>
 </div>
 
-</div> ## 🎯 Key Security Highlights
+</div>🎯 Key Security Highlights
 
 > **About Me:** Security engineer with hands-on experience across offensive and defensive security, specializing in threat detection, adversarial simulation, and enterprise security architecture. Proven ability to build SOC labs, engineer detection logic, assess application risk, and implement hardened network environments.
 
