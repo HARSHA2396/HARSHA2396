@@ -142,12 +142,12 @@ Led endpoint hardening initiatives across Windows, macOS, and Linux while aligni
     <td width="50%" valign="top" align="center">
       <h3>🔍 ScriptRecon V2</h3>
       <p>Advanced JavaScript Attack-Surface Reconnaissance Engine & Vulnerability Sandbox.</p>
-      <a href="https://scriptrecon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://scriptrecon.netlify.app/"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>⚡ Cracknetic Comprehen</h3>
       <p>Interactive security detection toolkit and dynamic analysis platform.</p>
-      <a href="https://cracknetic-comprehen-vwdw.bolt.host/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://cracknetic-comprehen-vwdw.bolt.host/"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
 </table>
